@@ -1,5 +1,5 @@
 # sql-data-warehouse-project
-Building a modern data warehouse with PostgreSQL, DBeaver including ETL processes, data modeling, and analytics.
+Building a modern data warehouse with SQLServer, DBeaver including ETL processes, data modeling, and analytics.
 
 ### Specifications
 - **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files
@@ -7,6 +7,7 @@ Building a modern data warehouse with PostgreSQL, DBeaver including ETL processe
 - **Integration**: Combine both sources into a single user-friendly data model designed for analytical queries
 - **Scope**: Focus on the latest dataset only; historization of data is not required (SCM I)
 - **Documentation**: Provide clear documentation of the data model to suupport both business stakeholders adn analytics teams.
+- **Systems Used**: MacOS utilizing Docker to run a container with a mssql server image. DBeaver used as the database management tool. 
 
 ---
 
